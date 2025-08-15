@@ -13,6 +13,8 @@ export default {
       fontFamily: {
         sans: ['Poppins', 'ui-sans-serif', 'system-ui'],
         serif: ['Playfair Display', 'serif'],
+        playfair: ['Playfair Display', 'serif'],
+        cinzel: ['Cinzel', 'serif'],
       },
     },
   },
