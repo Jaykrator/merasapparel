@@ -801,6 +801,10 @@ html, body {
   overflow-x: hidden;
 }
 
+.break-words {
+  overflow-wrap: break-word;
+}
+
 .rounded-full {
   border-radius: 9999px;
 }
